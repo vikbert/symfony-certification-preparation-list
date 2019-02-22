@@ -9,6 +9,7 @@ Please help add new links/info. We currently have not all topics covered. For mo
 The exam topics are copied from the [official exam topics](https://sensiolabs.com/en/symfony/certification.html). The master branch contains information for the 4.0 certification.
 
 ## Table of Contents
+(TODO 🎯; DONE ✅)
 
 - [PHP and Web Security](/topics/php-and-web-security.md)
     - [PHP API up to PHP 7.2 version](/topics/php-and-web-security.md#php-api-up-to-php-72-version)
@@ -36,16 +37,16 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex)
     - [License](/topics/symfony-architecture.md#license)
     - [Components](/topics/symfony-architecture.md#components)
-    - [Bridges](/topics/symfony-architecture.md#bridges)
+    - [Bridges](/topics/symfony-architecture.md#bridges) ❌
     - [Configuration](/topics/symfony-architecture.md#configuration)
-    - [Code organization](/topics/symfony-architecture.md#code-organization)
+    - [Code organization](/topics/symfony-architecture.md#code-organization) ❌
     - [Request handling](/topics/symfony-architecture.md#request-handling)
     - [Exception handling](/topics/symfony-architecture.md#exception-handling)
-    - [Event dispatcher and kernel events](/topics/symfony-architecture.md#event-dispatcher-and-kernel-events)
-    - [Official best practices](/topics/symfony-architecture.md#official-best-practices)
+    - [Event dispatcher and kernel events](/topics/symfony-architecture.md#event-dispatcher-and-kernel-events) 
+    - [Official best practices](/topics/symfony-architecture.md#official-best-practices) ❌
     - [Release management](/topics/symfony-architecture.md#release-management)
     - [Backward compatibility promise](/topics/symfony-architecture.md#backward-compatibility-promise)
-    - [Deprecations best practices](/topics/symfony-architecture.md#deprecations-best-practices)
+    - [Deprecations best practices](/topics/symfony-architecture.md#deprecations-best-practices) ❌
 - [Standardization](/topics/standardization.md)
     - [Release management and roadmap schedule](/topics/standardization.md#release-management-and-roadmap-schedule)
     - [Framework interoperability and PSRs](/topics/standardization.md#framework-interoperability-and-psrs)
@@ -103,10 +104,10 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [CSRF protection](/topics/forms.md#csrf-protection)
     - [Handling file upload](/topics/forms.md#handling-file-upload)
     - [Built-in form types](/topics/forms.md#built-in-form-types)
-    - [Data transformers](/topics/forms.md#data-transformers)
-    - [Form events](/topics/forms.md#form-events)
-    - [Form type extensions](/topics/forms.md#form-type-extensions)
-- [Data Validation](/topics/data-validation.md)
+    - [Data transformers](/topics/forms.md#data-transformers) ❌
+    - [Form events](/topics/forms.md#form-events) ❌
+    - [Form type extensions](/topics/forms.md#form-type-extensions) ❌
+- [Data Validation](/topics/data-validation.md) ❌
     - [PHP object validation](/topics/data-validation.md#php-object-validation)
     - [Built-in validation constraints](/topics/data-validation.md#built-in-validation-constraints)
     - [Validation scopes](/topics/data-validation.md#validation-scopes)
@@ -120,10 +121,10 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Configuration parameters](/topics/dependency-injection.md#configuration-parameters)
     - [Services registration](/topics/dependency-injection.md#services-registration)
     - [Tags](/topics/dependency-injection.md#tags)
-    - [Semantic configuration](/topics/dependency-injection.md#semantic-configuration)
-    - [Factories](/topics/dependency-injection.md#factories)
-    - [Compiler passes](/topics/dependency-injection.md#compiler-passes)
-    - [Services autowiring](/topics/dependency-injection.md#services-autowiring)
+    - [Semantic configuration](/topics/dependency-injection.md#semantic-configuration) ❌
+    - [Factories](/topics/dependency-injection.md#factories) ❌
+    - [Compiler passes](/topics/dependency-injection.md#compiler-passes) ❌
+    - [Services autowiring](/topics/dependency-injection.md#services-autowiring) ❌
 - [Security](/topics/security.md)
     - [Authentication](/topics/security.md#authentication)
     - [Authorization](/topics/security.md#authorization)
@@ -135,9 +136,9 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Roles](/topics/security.md#roles)
     - [Access Control Rules](/topics/security.md#access-control-rules)
     - [Guard authenticators](/topics/security.md#guard-authenticators)
-    - [Voters and voting strategies](/topics/security.md#voters-and-voting-strategies)
+    - [Voters and voting strategies](/topics/security.md#voters-and-voting-strategies)  ❌
 - [HTTP Caching](/topics/http-caching.md)
-    - [Cache types (browser, proxies and reverse-proxies)](/topics/http-caching.md#cache-types-browser-proxies-and-reverse-proxies)
+    - [Cache types (browser, proxies and reverse-proxies)](/topics/http-caching.md#cache-types-browser-proxies-and-reverse-proxies) ❌
     - [Expiration (Expires, Cache-Control)](/topics/http-caching.md#expiration-expires-cache-control)
     - [Validation (ETag, Last-Modified)](/topics/http-caching.md#validation-etag-last-modified)
     - [Client side caching](/topics/http-caching.md#client-side-caching)
