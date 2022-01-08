@@ -1,13 +1,5 @@
 # Symfony Certification Preparation List
 
-When looking for a guide to prepare myself for a Symfony certification, I couldn't find a lot. So I've decided to start this project to help people find everything they need.
-
-If you're looking for other people who are interested (or have) certification. Please check the #certification channel at the Symfony Devs Slack. [Request an invite here](https://symfony.com/slack-invite)
-
-Please help add new links/info. We currently have not all topics covered. For more information refer to the [Contributing page](contributing.md).
-
-The exam topics are copied from the [official exam topics](https://sensiolabs.com/en/symfony/certification.html). The master branch contains information for the 4.0 certification.
-
 ## Table of Contents
 (TODO 🎯; DONE ✅)
 
@@ -26,23 +18,23 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
 - [HTTP](/topics/http.md)
     - [Client / Server interaction](/topics/http.md#client--server-interaction)
     - [Status codes](/topics/http.md#status-codes)
-    - [HTTP request](/topics/http.md#http-request)
-    - [HTTP response](/topics/http.md#http-response)
+    - [HTTP request](/topics/http.md#http-request) 🎯
+    - [HTTP response](/topics/http.md#http-response) 🎯
     - [HTTP methods](/topics/http.md#http-methods)
-    - [Cookies](/topics/http.md#cookies)
-    - [Caching](/topics/http.md#caching)
+    - [Cookies](/topics/http.md#cookies) 🎯
+    - [Caching](/topics/http.md#caching) 🎯
     - [Content negotiation](/topics/http.md#content-negotiation)
     - [Language detection](/topics/http.md#language-detection)
 - [Symfony Architecture](/topics/symfony-architecture.md)
     - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex)
     - [License](/topics/symfony-architecture.md#license)
-    - [Components](/topics/symfony-architecture.md#components)
+    - [Components](/topics/symfony-architecture.md#components) 🎯
     - [Bridges](/topics/symfony-architecture.md#bridges) ❌
     - [Configuration](/topics/symfony-architecture.md#configuration)
     - [Code organization](/topics/symfony-architecture.md#code-organization) ❌
-    - [Request handling](/topics/symfony-architecture.md#request-handling)
-    - [Exception handling](/topics/symfony-architecture.md#exception-handling)
-    - [Event dispatcher and kernel events](/topics/symfony-architecture.md#event-dispatcher-and-kernel-events) 
+    - [Request handling](/topics/symfony-architecture.md#request-handling) 🎯
+    - [Exception handling](/topics/symfony-architecture.md#exception-handling) 🎯
+    - [Event dispatcher and kernel events](/topics/symfony-architecture.md#event-dispatcher-and-kernel-events) 🎯
     - [Official best practices](/topics/symfony-architecture.md#official-best-practices) ❌
     - [Release management](/topics/symfony-architecture.md#release-management)
     - [Backward compatibility promise](/topics/symfony-architecture.md#backward-compatibility-promise)
@@ -54,10 +46,10 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Coding standards](/topics/standardization.md#coding-standards)
     - [Third-party libraries integration](/topics/standardization.md#third-party-libraries-integration)
     - [Composer packages handling](/topics/standardization.md#composer-packages-handling)
-    - [Development best practices](/topics/standardization.md#development-best-practices)
+    - [Development best practices](/topics/standardization.md#development-best-practices) 🎯
     - [Framework overloading](/topics/standardization.md#framework-overloading)
     - [Semantic versioning](/topics/standardization.md#semantic-versioning)
-- [Controllers](/topics/controllers.md)
+- [Controllers](/topics/controllers.md) 
     - [Naming conventions](/topics/controllers.md#naming-conventions)
     - [The base Controller class](/topics/controllers.md#the-base-controller-class)
     - [The request](/topics/controllers.md#the-request)
@@ -68,8 +60,8 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [HTTP redirects](/topics/controllers.md#http-redirects)
     - [Internal redirects](/topics/controllers.md#internal-redirects)
     - [Generate 404 pages](/topics/controllers.md#generate-404-pages)
-    - [File upload](/topics/controllers.md#file-upload)
-    - [Built-in internal controllers](/topics/controllers.md#built-in-internal-controllers)
+    - [File upload](/topics/controllers.md#file-upload) 🎯
+    - [Built-in internal controllers](/topics/controllers.md#built-in-internal-controllers) 🎯
 - [Routing](/topics/routing.md)
     - [Configuration (YAML, XML, PHP & annotations)](/topics/routing.md#configuration-yaml-xml-php--annotations)
     - [Restrict URL parameters](/topics/routing.md#restrict-url-parameters)
@@ -86,7 +78,7 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Auto escaping](/topics/templating-with-twig.md#auto-escaping)
     - [Template inheritance](/topics/templating-with-twig.md#template-inheritance)
     - [Global variables](/topics/templating-with-twig.md#global-variables)
-    - [Filters and functions](/topics/templating-with-twig.md#filters-and-functions)
+    - [Filters and functions](/topics/templating-with-twig.md#filters-and-functions) 🎯
     - [Template includes](/topics/templating-with-twig.md#template-includes)
     - [Loops and conditions](/topics/templating-with-twig.md#loops-and-conditions)
     - [URLs generation](/topics/templating-with-twig.md#urls-generation)
@@ -126,23 +118,23 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Compiler passes](/topics/dependency-injection.md#compiler-passes) ❌
     - [Services autowiring](/topics/dependency-injection.md#services-autowiring) ❌
 - [Security](/topics/security.md)
-    - [Authentication](/topics/security.md#authentication)
-    - [Authorization](/topics/security.md#authorization)
-    - [Configuration](/topics/security.md#configuration)
-    - [Providers](/topics/security.md#providers)
-    - [Firewalls](/topics/security.md#firewalls)
-    - [Users](/topics/security.md#users)
-    - [Passwords encoders](/topics/security.md#passwords-encoders)
-    - [Roles](/topics/security.md#roles)
-    - [Access Control Rules](/topics/security.md#access-control-rules)
-    - [Guard authenticators](/topics/security.md#guard-authenticators)
-    - [Voters and voting strategies](/topics/security.md#voters-and-voting-strategies)  ❌
+    - [Authentication](/topics/security.md#authentication) 🎯
+    - [Authorization](/topics/security.md#authorization) 🎯
+    - [Configuration](/topics/security.md#configuration) 🎯
+    - [Providers](/topics/security.md#providers) 🎯
+    - [Firewalls](/topics/security.md#firewalls) 🎯
+    - [Users](/topics/security.md#users) 🎯
+    - [Passwords encoders](/topics/security.md#passwords-encoders) 
+    - [Roles](/topics/security.md#roles) 🎯
+    - [Access Control Rules](/topics/security.md#access-control-rules) 🎯
+    - [Guard authenticators](/topics/security.md#guard-authenticators) 🎯
+    - [Voters and voting strategies](/topics/security.md#voters-and-voting-strategies)  🎯
 - [HTTP Caching](/topics/http-caching.md)
     - [Cache types (browser, proxies and reverse-proxies)](/topics/http-caching.md#cache-types-browser-proxies-and-reverse-proxies) ❌
-    - [Expiration (Expires, Cache-Control)](/topics/http-caching.md#expiration-expires-cache-control)
-    - [Validation (ETag, Last-Modified)](/topics/http-caching.md#validation-etag-last-modified)
-    - [Client side caching](/topics/http-caching.md#client-side-caching)
-    - [Server side caching](/topics/http-caching.md#server-side-caching)
+    - [Expiration (Expires, Cache-Control)](/topics/http-caching.md#expiration-expires-cache-control) 🎯
+    - [Validation (ETag, Last-Modified)](/topics/http-caching.md#validation-etag-last-modified) 🎯
+    - [Client side caching](/topics/http-caching.md#client-side-caching) 🎯
+    - [Server side caching](/topics/http-caching.md#server-side-caching) 🎯
     - [Edge Side Includes](/topics/http-caching.md#edge-side-includes)
 - [Console](/topics/console.md)
     - [Built-in commands](/topics/console.md#built-in-commands)
@@ -165,13 +157,13 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [PHPUnit bridge](/topics/automated-tests.md#phpunit-bridge)
     - [Handling legacy deprecated code](/topics/automated-tests.md#handling-legacy-deprecated-code)
 - [Miscellaneous](/topics/miscellaneous.md)
-    - [Error handling](/topics/miscellaneous.md#error-handling)
+    - [Error handling](/topics/miscellaneous.md#error-handling) 🎯
     - [Code debugging](/topics/miscellaneous.md#code-debugging)
     - [Deployment best practices](/topics/miscellaneous.md#deployment-best-practices)
-    - [Process and Serializer components](/topics/miscellaneous.md#process-and-serializer-components)
-    - [Data collectors](/topics/miscellaneous.md#data-collectors)
-    - [Web Profiler and Web Debug Toolbar](/topics/miscellaneous.md#web-profiler-and-web-debug-toolbar)
-    - [Internationalization and localization](/topics/miscellaneous.md#internationalization-and-localization)
+    - [Process and Serializer components](/topics/miscellaneous.md#process-and-serializer-components) 🎯
+    - [Data collectors](/topics/miscellaneous.md#data-collectors) 🎯
+    - [Web Profiler and Web Debug Toolbar](/topics/miscellaneous.md#web-profiler-and-web-debug-toolbar) 🎯
+    - [Internationalization and localization](/topics/miscellaneous.md#internationalization-and-localization) 🎯
 
 
 # License
