@@ -4,51 +4,50 @@
 (TODO 🎯; DONE ✅)
 
 - [PHP and Web Security](/topics/php-and-web-security.md)
-    - [PHP API up to PHP 7.2 version](/topics/php-and-web-security.md#php-api-up-to-php-72-version)
-    - [Object Oriented Programming](/topics/php-and-web-security.md#object-oriented-programming)
-    - [Namespaces](/topics/php-and-web-security.md#namespaces)
-    - [Interfaces](/topics/php-and-web-security.md#interfaces)
-    - [Anonymous functions and closures](/topics/php-and-web-security.md#anonymous-functions-and-closures)
-    - [Abstract classes](/topics/php-and-web-security.md#abstract-classes)
-    - [Exception and error handling](/topics/php-and-web-security.md#exception-and-error-handling)
-    - [Traits](/topics/php-and-web-security.md#traits)
-    - [PHP extensions](/topics/php-and-web-security.md#php-extensions)
-    - [SPL](/topics/php-and-web-security.md#spl)
-    - [Web security (XSS, CSRF, etc.)](/topics/php-and-web-security.md#web-security-xss-csrf-etc)
+    - [✔︎ PHP API up to PHP 8.1 version](/topics/php-and-web-security.md#php-api-up-to-php-81-version)
+    - [✔︎ Object Oriented Programming](/topics/php-and-web-security.md#object-oriented-programming)
+    - [✔︎ Namespaces](/topics/php-and-web-security.md#namespaces)
+    - [✔︎ Interfaces](/topics/php-and-web-security.md#interfaces)
+    - [✔︎ Anonymous functions and closures](/topics/php-and-web-security.md#anonymous-functions-and-closures)
+    - [✔︎ Abstract classes](/topics/php-and-web-security.md#abstract-classes)
+    - [✔︎ Exception and error handling](/topics/php-and-web-security.md#exception-and-error-handling)
+    - [✔︎ Traits](/topics/php-and-web-security.md#traits)
+    - [✔︎ PHP extensions](/topics/php-and-web-security.md#php-extensions)
+    - [✔︎ SPL](/topics/php-and-web-security.md#spl)
 - [HTTP](/topics/http.md)
-    - [Client / Server interaction](/topics/http.md#client--server-interaction)
-    - [Status codes](/topics/http.md#status-codes)
-    - [HTTP request](/topics/http.md#http-request) 🎯
-    - [HTTP response](/topics/http.md#http-response) 🎯
-    - [HTTP methods](/topics/http.md#http-methods)
-    - [Cookies](/topics/http.md#cookies) 🎯
-    - [Caching](/topics/http.md#caching) 🎯
-    - [Content negotiation](/topics/http.md#content-negotiation)
-    - [Language detection](/topics/http.md#language-detection)
+    - [✔︎ Client / Server interaction](/topics/http.md#client--server-interaction)
+    - [✔︎ Status codes](/topics/http.md#status-codes)
+    - [✔︎ HTTP request](/topics/http.md#http-request) 🎯
+    - [✔︎ HTTP response](/topics/http.md#http-response) 🎯
+    - [✔︎ HTTP methods](/topics/http.md#http-methods)
+    - [✔︎ Cookies](/topics/http.md#cookies) 🎯
+    - [✔︎ Caching](/topics/http.md#caching) 🎯
+    - [✔︎ Content negotiation](/topics/http.md#content-negotiation)
+    - [✔︎ Language detection](/topics/http.md#language-detection)
+    - [✔︎ Symfony HttpClient Component](/topics/http.md) (TODO)
 - [Symfony Architecture](/topics/symfony-architecture.md)
-    - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex)
-    - [License](/topics/symfony-architecture.md#license)
-    - [Components](/topics/symfony-architecture.md#components) 🎯
-    - [Bridges](/topics/symfony-architecture.md#bridges) ❌
-    - [Configuration](/topics/symfony-architecture.md#configuration)
-    - [Code organization](/topics/symfony-architecture.md#code-organization) ❌
-    - [Request handling](/topics/symfony-architecture.md#request-handling) 🎯
-    - [Exception handling](/topics/symfony-architecture.md#exception-handling) 🎯
-    - [Event dispatcher and kernel events](/topics/symfony-architecture.md#event-dispatcher-and-kernel-events) 🎯
-    - [Official best practices](/topics/symfony-architecture.md#official-best-practices) ❌
-    - [Release management](/topics/symfony-architecture.md#release-management)
-    - [Backward compatibility promise](/topics/symfony-architecture.md#backward-compatibility-promise)
-    - [Deprecations best practices](/topics/symfony-architecture.md#deprecations-best-practices) ❌
-- [Standardization](/topics/standardization.md)
-    - [Release management and roadmap schedule](/topics/standardization.md#release-management-and-roadmap-schedule)
-    - [Framework interoperability and PSRs](/topics/standardization.md#framework-interoperability-and-psrs)
-    - [Naming conventions](/topics/standardization.md#naming-conventions)
-    - [Coding standards](/topics/standardization.md#coding-standards)
-    - [Third-party libraries integration](/topics/standardization.md#third-party-libraries-integration)
-    - [Composer packages handling](/topics/standardization.md#composer-packages-handling)
-    - [Development best practices](/topics/standardization.md#development-best-practices) 🎯
-    - [Framework overloading](/topics/standardization.md#framework-overloading)
-    - [Semantic versioning](/topics/standardization.md#semantic-versioning)
+    - [✔︎ Symfony Flex](/topics/symfony-architecture.md#symfony-flex)
+    - [✔︎ License](/topics/symfony-architecture.md#license)
+    - [✔︎ Components](/topics/symfony-architecture.md#components) 🎯
+    - [✔︎ Bridges](/topics/symfony-architecture.md#bridges) ❌
+    - [✔︎ Code organization](/topics/symfony-architecture.md#code-organization) ❌
+    - [✔︎ Request handling](/topics/symfony-architecture.md#request-handling) 🎯
+    - [✔︎ Exception handling](/topics/symfony-architecture.md#exception-handling) 🎯
+    - [✔︎ Event dispatcher and kernel events](/topics/symfony-architecture.md#event-dispatcher-and-kernel-events) 🎯
+    - [✔︎ Official best practices](/topics/symfony-architecture.md#official-best-practices) ❌
+    - [✔︎ Release management](/topics/symfony-architecture.md#release-management)
+    - [✔︎ Backward compatibility promise](/topics/symfony-architecture.md#backward-compatibility-promise)
+    - [✔︎ Deprecations best practices](/topics/symfony-architecture.md#deprecations-best-practices) ❌
+- [✔︎ Standardization](/topics/standardization.md)
+    - [✔︎ Release management and roadmap schedule](/topics/standardization.md#release-management-and-roadmap-schedule)
+    - [✔︎ Framework interoperability and PSRs](/topics/standardization.md#framework-interoperability-and-psrs)
+    - [✔︎ Naming conventions](/topics/standardization.md#naming-conventions)
+    - [✔︎ Coding standards](/topics/standardization.md#coding-standards)
+    - [✔︎ Third-party libraries integration](/topics/standardization.md#third-party-libraries-integration)
+    - [✔︎ Composer packages handling](/topics/standardization.md#composer-packages-handling)
+    - [✔︎ Development best practices](/topics/standardization.md#development-best-practices) 🎯
+    - [✔︎ Framework overloading](/topics/standardization.md#framework-overloading)
+    - [✔︎ Semantic versioning](/topics/standardization.md#semantic-versioning)
 - [Controllers](/topics/controllers.md) 
     - [Naming conventions](/topics/controllers.md#naming-conventions)
     - [The base Controller class](/topics/controllers.md#the-base-controller-class)
@@ -166,5 +165,9 @@
     - [Internationalization and localization](/topics/miscellaneous.md#internationalization-and-localization) 🎯
 
 
+# Resource out of date
+- [Security - php.net](http://php.net/manual/en/security.php)
+- [Security - phptherightway.com](http://www.phptherightway.com/#security)
+- [Configuration](/topics/symfony-architecture.md#configuration)
 # License
 This guide is based on the work by @ThomasBerends. I used it and extended it for my preparation for the symfony certification. More details see in LICENSE.
