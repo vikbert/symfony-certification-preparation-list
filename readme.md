@@ -108,67 +108,67 @@
     - [✔︎ Custom callback validators](/topics/data-validation.md#custom-callback-validators)
     - [✔︎ Violations builder](/topics/data-validation.md#violations-builder)
 - [Dependency Injection](/topics/dependency-injection.md)
-    - [Service container](/topics/dependency-injection.md#service-container)
-    - [Built-in services](/topics/dependency-injection.md#built-in-services)
-    - [Configuration parameters](/topics/dependency-injection.md#configuration-parameters)
-    - [Services registration](/topics/dependency-injection.md#services-registration)
-    - [Tags](/topics/dependency-injection.md#tags)
-    - [Semantic configuration](/topics/dependency-injection.md#semantic-configuration) ❌
-    - [Factories](/topics/dependency-injection.md#factories) ❌
-    - [Compiler passes](/topics/dependency-injection.md#compiler-passes) ❌
-    - [Services autowiring](/topics/dependency-injection.md#services-autowiring) ❌
+    - [✔︎ Service container](/topics/dependency-injection.md#service-container)
+    - [✔︎ Built-in services](/topics/dependency-injection.md#built-in-services)
+    - [✔︎ Configuration parameters](/topics/dependency-injection.md#configuration-parameters)
+    - [✔︎ Services registration](/topics/dependency-injection.md#services-registration)
+    - [✔︎ Tags](/topics/dependency-injection.md#tags)
+    - [✔︎ Semantic configuration](/topics/dependency-injection.md#semantic-configuration) ❌
+    - [✔︎ Factories](/topics/dependency-injection.md#factories) ❌
+    - [✔︎ Compiler passes](/topics/dependency-injection.md#compiler-passes) ❌
+    - [✔︎ Services autowiring](/topics/dependency-injection.md#services-autowiring) ❌
 - [Security](/topics/security.md)
-    - [Authentication](/topics/security.md#authentication) 🎯
-    - [Authorization](/topics/security.md#authorization) 🎯
-    - [Configuration](/topics/security.md#configuration) 🎯
-    - [Providers](/topics/security.md#providers) 🎯
-    - [Firewalls](/topics/security.md#firewalls) 🎯
-    - [Users](/topics/security.md#users) 🎯
-    - [Passwords encoders](/topics/security.md#passwords-encoders) 
-    - [Roles](/topics/security.md#roles) 🎯
-    - [Access Control Rules](/topics/security.md#access-control-rules) 🎯
-    - [Guard authenticators](/topics/security.md#guard-authenticators) 🎯
-    - [Voters and voting strategies](/topics/security.md#voters-and-voting-strategies)  🎯
+    - [✔︎ Authentication](/topics/security.md#authentication) 🎯
+    - [✔︎ Authorization](/topics/security.md#authorization) 🎯
+    - [✔︎ Configuration](/topics/security.md#configuration) 🎯
+    - [✔︎ Providers](/topics/security.md#providers) 🎯
+    - [✔︎ Firewalls](/topics/security.md#firewalls) 🎯
+    - [✔︎ Users](/topics/security.md#users) 🎯
+    - [✔︎ Passwords encoders](/topics/security.md#passwords-encoders) 
+    - [✔︎ Roles](/topics/security.md#roles) 🎯
+    - [✔︎ Access Control Rules](/topics/security.md#access-control-rules) 🎯
+    - [✔︎ Guard authenticators](/topics/security.md#guard-authenticators) 🎯
+    - [✔︎ Voters and voting strategies](/topics/security.md#voters-and-voting-strategies)  🎯
 - [HTTP Caching](/topics/http-caching.md)
-    - [Cache types (browser, proxies and reverse-proxies)](/topics/http-caching.md#cache-types-browser-proxies-and-reverse-proxies) ❌
-    - [Expiration (Expires, Cache-Control)](/topics/http-caching.md#expiration-expires-cache-control) 🎯
-    - [Validation (ETag, Last-Modified)](/topics/http-caching.md#validation-etag-last-modified) 🎯
-    - [Client side caching](/topics/http-caching.md#client-side-caching) 🎯
-    - [Server side caching](/topics/http-caching.md#server-side-caching) 🎯
-    - [Edge Side Includes](/topics/http-caching.md#edge-side-includes)
+    - [✔︎ Cache types (browser, proxies and reverse-proxies)](/topics/http-caching.md#cache-types-browser-proxies-and-reverse-proxies) ❌
+    - [✔︎ Expiration (Expires, Cache-Control)](/topics/http-caching.md#expiration-expires-cache-control) 🎯
+    - [✔︎ Validation (ETag, Last-Modified)](/topics/http-caching.md#validation-etag-last-modified) 🎯
+    - [✔︎ Client side caching](/topics/http-caching.md#client-side-caching) 🎯
+    - [✔︎ Server side caching](/topics/http-caching.md#server-side-caching) 🎯
+    - [✔︎ Edge Side Includes](/topics/http-caching.md#edge-side-includes)
 - [Console](/topics/console.md)
-    - [Built-in commands](/topics/console.md#built-in-commands)
-    - [Custom commands](/topics/console.md#custom-commands)
-    - [Configuration](/topics/console.md#configuration)
-    - [Options and arguments](/topics/console.md#options-and-arguments)
-    - [Input and Output objects](/topics/console.md#input-and-output-objects)
-    - [Built-in helpers](/topics/console.md#built-in-helpers)
-    - [Console events](/topics/console.md#console-events)
-    - [Verbosity levels](/topics/console.md#verbosity-levels)
+    - [✔︎ Built-in commands](/topics/console.md#built-in-commands)
+    - [✔︎ Custom commands](/topics/console.md#custom-commands)
+    - [✔︎ Configuration](/topics/console.md#configuration)
+    - [✔︎ Options and arguments](/topics/console.md#options-and-arguments)
+    - [✔︎ Input and Output objects](/topics/console.md#input-and-output-objects)
+    - [✔︎ Built-in helpers](/topics/console.md#built-in-helpers)
+    - [✔︎ Console events](/topics/console.md#console-events)
+    - [✔︎ Verbosity levels](/topics/console.md#verbosity-levels)
 - [Automated Tests](/topics/automated-tests.md)
-    - [Unit tests with PHPUnit](/topics/automated-tests.md#unit-tests-with-phpunit)
-    - [Functional tests with PHPUnit](/topics/automated-tests.md#functional-tests-with-phpunit)
-    - [Client object](/topics/automated-tests.md#client-object)
-    - [Crawler object](/topics/automated-tests.md#crawler-object)
-    - [Profile object](/topics/automated-tests.md#profile-object)
-    - [Framework objects access](/topics/automated-tests.md#framework-objects-access)
-    - [Client configuration](/topics/automated-tests.md#client-configuration)
-    - [Request and response objects introspection](/topics/automated-tests.md#request-and-response-objects-introspection)
-    - [PHPUnit bridge](/topics/automated-tests.md#phpunit-bridge)
-    - [Handling legacy deprecated code](/topics/automated-tests.md#handling-legacy-deprecated-code)
+    - [✔︎ Unit tests with PHPUnit](/topics/automated-tests.md#unit-tests-with-phpunit)
+    - [✔︎ Functional tests with PHPUnit](/topics/automated-tests.md#functional-tests-with-phpunit)
+    - [✔︎ Client object](/topics/automated-tests.md#client-object)
+    - [✔︎ Crawler object](/topics/automated-tests.md#crawler-object)
+    - [✔︎ Profile object](/topics/automated-tests.md#profile-object)
+    - [✔︎ Framework objects access](/topics/automated-tests.md#framework-objects-access)
+    - [✔︎ Client configuration](/topics/automated-tests.md#client-configuration)
+    - [✔︎ Request and response objects introspection](/topics/automated-tests.md#request-and-response-objects-introspection)
+    - [✔︎ PHPUnit bridge](/topics/automated-tests.md#phpunit-bridge)
+    - [✔︎ Handling legacy deprecated code](/topics/automated-tests.md#handling-legacy-deprecated-code)
 - [Miscellaneous](/topics/miscellaneous.md)
-    - [Configuration(including DotEnv and ExpressionaLanguage)](/topics/miscellaneous.md#) (TODO)
-    - [Error handling](/topics/miscellaneous.md#error-handling) 🎯
-    - [Code debugging](/topics/miscellaneous.md#code-debugging)
-    - [Deployment best practices](/topics/miscellaneous.md#deployment-best-practices)
-    - [Cache, Process and Serializer components](/topics/miscellaneous.md#process-and-serializer-components) 🎯
-    - [Messenger component](/topics/miscellaneous.md#messenger-component) (TODO)
-    - [Mime and Mailer component](/topics/miscellaneous.md#mime-mailer-component) (TODO)
-    - [Filesystem and Finder component](/topics/miscellaneous.md#filesystem-finder-component) (TODO)
-    - [Runtime component](/topics/miscellaneous.md#runtime-component) (TODO)
-    - [Lock Component](/topics/miscellaneous.md#lock-component) (TODO)
-    - [Web Profiler, Web Debug Toolbar and Data collectors](/topics/miscellaneous.md#web-profiler-and-web-debug-toolbar) 🎯
-    - [Internationalization and localization](/topics/miscellaneous.md#internationalization-and-localization) 🎯
+    - [✔︎ Configuration(including DotEnv and ExpressionaLanguage)](/topics/miscellaneous.md#) (TODO)
+    - [✔︎ Error handling](/topics/miscellaneous.md#error-handling) 🎯
+    - [✔︎ Code debugging](/topics/miscellaneous.md#code-debugging)
+    - [✔︎ Deployment best practices](/topics/miscellaneous.md#deployment-best-practices)
+    - [✔︎ Cache, Process and Serializer components](/topics/miscellaneous.md#process-and-serializer-components) 🎯
+    - [✔︎ Messenger component](/topics/miscellaneous.md#messenger-component) (TODO)
+    - [✔︎ Mime and Mailer component](/topics/miscellaneous.md#mime-mailer-component) (TODO)
+    - [✔︎ Filesystem and Finder component](/topics/miscellaneous.md#filesystem-finder-component) (TODO)
+    - [✔︎ Runtime component](/topics/miscellaneous.md#runtime-component) (TODO)
+    - [✔︎ Lock Component](/topics/miscellaneous.md#lock-component) (TODO)
+    - [✔︎ Web Profiler, Web Debug Toolbar and Data collectors](/topics/miscellaneous.md#web-profiler-and-web-debug-toolbar) 🎯
+    - [✔︎ Internationalization and localization](/topics/miscellaneous.md#internationalization-and-localization) 🎯
 
 
 # Resource out of date
