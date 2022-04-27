@@ -100,13 +100,13 @@
     - [✔︎ Form events](/topics/forms.md#form-events) ❌
     - [✔︎ Form type extensions](/topics/forms.md#form-type-extensions) ❌
 - [Data Validation](/topics/data-validation.md) ❌
-    - [PHP object validation](/topics/data-validation.md#php-object-validation)
-    - [Built-in validation constraints](/topics/data-validation.md#built-in-validation-constraints)
-    - [Validation scopes](/topics/data-validation.md#validation-scopes)
-    - [Validation groups](/topics/data-validation.md#validation-groups)
-    - [Group sequence](/topics/data-validation.md#group-sequence)
-    - [Custom callback validators](/topics/data-validation.md#custom-callback-validators)
-    - [Violations builder](/topics/data-validation.md#violations-builder)
+    - [✔︎ PHP object validation](/topics/data-validation.md#php-object-validation)
+    - [✔︎ Built-in validation constraints](/topics/data-validation.md#built-in-validation-constraints)
+    - [✔︎ Validation scopes](/topics/data-validation.md#validation-scopes)
+    - [✔︎ Validation groups](/topics/data-validation.md#validation-groups)
+    - [✔︎ Group sequence](/topics/data-validation.md#group-sequence)
+    - [✔︎ Custom callback validators](/topics/data-validation.md#custom-callback-validators)
+    - [✔︎ Violations builder](/topics/data-validation.md#violations-builder)
 - [Dependency Injection](/topics/dependency-injection.md)
     - [Service container](/topics/dependency-injection.md#service-container)
     - [Built-in services](/topics/dependency-injection.md#built-in-services)
