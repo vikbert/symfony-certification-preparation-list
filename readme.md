@@ -38,7 +38,7 @@
     - [✔︎ Release management](/topics/symfony-architecture.md#release-management)
     - [✔︎ Backward compatibility promise](/topics/symfony-architecture.md#backward-compatibility-promise)
     - [✔︎ Deprecations best practices](/topics/symfony-architecture.md#deprecations-best-practices) ❌
-- [✔︎ Standardization](/topics/standardization.md)
+- [Standardization](/topics/standardization.md)
     - [✔︎ Release management and roadmap schedule](/topics/standardization.md#release-management-and-roadmap-schedule)
     - [✔︎ Framework interoperability and PSRs](/topics/standardization.md#framework-interoperability-and-psrs)
     - [✔︎ Naming conventions](/topics/standardization.md#naming-conventions)
@@ -74,6 +74,7 @@
     - [User's locale guessing](/topics/routing.md#users-locale-guessing)
     - [Router debugging](/topics/routing.md#router-debugging)
 - [Templating with Twig](/topics/templating-with-twig.md)
+    - [Twig syntax up to 3.3 version](/topics/templating-with-twig.md#auto-escaping) (TODO)
     - [Auto escaping](/topics/templating-with-twig.md#auto-escaping)
     - [Template inheritance](/topics/templating-with-twig.md#template-inheritance)
     - [Global variables](/topics/templating-with-twig.md#global-variables)
@@ -156,12 +157,17 @@
     - [PHPUnit bridge](/topics/automated-tests.md#phpunit-bridge)
     - [Handling legacy deprecated code](/topics/automated-tests.md#handling-legacy-deprecated-code)
 - [Miscellaneous](/topics/miscellaneous.md)
+    - [Configuration(including DotEnv and ExpressionaLanguage)](/topics/miscellaneous.md#) (TODO)
     - [Error handling](/topics/miscellaneous.md#error-handling) 🎯
     - [Code debugging](/topics/miscellaneous.md#code-debugging)
     - [Deployment best practices](/topics/miscellaneous.md#deployment-best-practices)
-    - [Process and Serializer components](/topics/miscellaneous.md#process-and-serializer-components) 🎯
-    - [Data collectors](/topics/miscellaneous.md#data-collectors) 🎯
-    - [Web Profiler and Web Debug Toolbar](/topics/miscellaneous.md#web-profiler-and-web-debug-toolbar) 🎯
+    - [Cache, Process and Serializer components](/topics/miscellaneous.md#process-and-serializer-components) 🎯
+    - [Messenger component](/topics/miscellaneous.md#messenger-component) (TODO)
+    - [Mime and Mailer component](/topics/miscellaneous.md#mime-mailer-component) (TODO)
+    - [Filesystem and Finder component](/topics/miscellaneous.md#filesystem-finder-component) (TODO)
+    - [Runtime component](/topics/miscellaneous.md#runtime-component) (TODO)
+    - [Lock Component](/topics/miscellaneous.md#lock-component) (TODO)
+    - [Web Profiler, Web Debug Toolbar and Data collectors](/topics/miscellaneous.md#web-profiler-and-web-debug-toolbar) 🎯
     - [Internationalization and localization](/topics/miscellaneous.md#internationalization-and-localization) 🎯
 
 
@@ -169,5 +175,8 @@
 - [Security - php.net](http://php.net/manual/en/security.php)
 - [Security - phptherightway.com](http://www.phptherightway.com/#security)
 - [Configuration](/topics/symfony-architecture.md#configuration)
+- [Data collectors](/topics/miscellaneous.md#data-collectors) 🎯
+
+
 # License
 This guide is based on the work by @ThomasBerends. I used it and extended it for my preparation for the symfony certification. More details see in LICENSE.
